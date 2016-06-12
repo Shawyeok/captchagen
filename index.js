@@ -17,6 +17,7 @@ module.exports = {
     cap.use(drawBackground);
     cap.use(drawLines);
     cap.use(drawText);
+    cap.use(drawLines);
     return cap;
   }
 };
