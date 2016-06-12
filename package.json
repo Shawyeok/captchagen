@@ -1,29 +1,28 @@
 {
-   "name":"captchagen",
-   "description":"Captcha generator",
-   "version":"1.1.0",
-   "homepage":"http://github.com/wearefractal/captchagen",
-   "repository":"git://github.com/wearefractal/captchagen.git",
-   "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
-   "main":"./index.js",
-   
-   "dependencies":{
-      "canvas":"*"
-   },
-   "devDependencies":{
-      "mocha":"*",
-      "should":"*"
-   },
-   "scripts":{
-      "test":"mocha --reporter spec"
-   },
-   "engines":{
-      "node":">=0.6"
-   },
-   "licenses":[
-      {
-         "type":"MIT",
-         "url":"http://github.com/wearefractal/captchagen/raw/master/LICENSE"
-      }
-   ]
+  "name": "captchagen2",
+  "description": "Captcha generator2 forked from https://github.com/contra/captchagen",
+  "version": "1.0.0",
+  "homepage": "http://github.com/Shawyeok/captchagen2",
+  "repository": "git://github.com/Shawyeok/captchagen2.git",
+  "author": "shawyeok <kmter@live.com>",
+  "main": "./index.js",
+  "dependencies": {
+    "canvas": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Shawyeok/captchagen2/raw/master/LICENSE"
+    }
+  ]
 }
