@@ -1,7 +1,7 @@
 {
   "name": "captchagen2",
   "description": "Captcha generator2 forked from https://github.com/contra/captchagen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "http://github.com/Shawyeok/captchagen2",
   "repository": "git://github.com/Shawyeok/captchagen2.git",
   "author": "shawyeok <kmter@live.com>",
