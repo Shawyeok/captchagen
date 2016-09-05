@@ -1,7 +1,10 @@
+captchagen2
+=====
+[![Build Status](https://travis-ci.org/Shawyeok/captchagen2.svg?branch=master)](https://travis-ci.org/Shawyeok/captchagen2)
 ## Information
 
 <table>
-<tr> 
+<tr>
 <td>Package</td><td>captchagen2</td>
 </tr>
 <tr>
@@ -85,4 +88,3 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
