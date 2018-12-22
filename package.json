@@ -7,11 +7,11 @@
   "author": "shawyeok <kmter@live.com>",
   "main": "./index.js",
   "dependencies": {
-    "canvas": "*"
+    "canvas": "^1.6.13"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
   },
   "scripts": {
     "test": "mocha --reporter spec"
@@ -19,10 +19,5 @@
   "engines": {
     "node": ">=0.6"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/Shawyeok/captchagen2/raw/master/LICENSE"
-    }
-  ]
+  "license": "MIT"
 }
