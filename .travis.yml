@@ -28,6 +28,4 @@ addons:
     packages:
       - g++-4.8
 before_install:
-  - sudo apt-get -qq update
-  - sudo apt-get install -y libcairo2-dev libjpeg-dev libpango1.0-dev libgif-dev build-essential g++
-  - npm update -g npm
+  - sudo apt-get install -y libcairo2-dev libjpeg-dev libpango1.0-dev libgif-dev build-essential
